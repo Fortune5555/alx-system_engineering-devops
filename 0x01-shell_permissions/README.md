@@ -1,1 +1,1 @@
-touch me
+chmod hello
