@@ -1,2 +1,4 @@
 #!/bin/bash
+$ wc -l file >> 1-confused_smiley
+echo $ wc -l file
 "(Ôo)'
